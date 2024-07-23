@@ -16,8 +16,8 @@ HumaniSE Lab,
 Monash University, Australia.
 
 Nalin Arachchilage | 
-Faculty of Science,
-The University of Auckland, New Zealand.
+School of Computing Studies,
+RMIT University, Australia.
 
 https://kashumim.com/ 
 https://sites.google.com/site/johncgrundy/ 
