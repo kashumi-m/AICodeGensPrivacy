@@ -1,9 +1,8 @@
-# SWOT-AI-Code-Gens-Replication-Package-Madampe-et-al.
-This is the replication package of the ACM Transactions on Software Engineering and Methodology paper "Strengths, Weaknesses, Opportunities, and Threats of AI-based Code Generators: General Use and Generating Code for Privacy" | Kashumi Madampe; John Grundy; Nalin Arachchilage
+# Privacy-Preserving-AI-Code-Gens-Replication-Package-Madampe-et-al.
+This is the replication package of the IEEE Software article "Should we use AI to generate
+privacy-preserving code?" | Kashumi Madampe; John Grundy; Nalin Arachchilage
 
-The study followed a mixed-methods approach (a developer survey, a focused literature review, and an experimental study).
-
-This repository contains, the survey questionnaire relavant to this study.
+This repository contains, the survey questionnaire relevant to this study and the quantitative findings.
 
 Due to the confidentiality, we do not provide the raw data.
 
