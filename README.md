@@ -1,6 +1,5 @@
 # Privacy-Preserving-AI-Code-Gens-Replication-Package-Madampe-et-al.
-This is the replication package of the IEEE Software article "Should we use AI to generate
-privacy-preserving code?" | Kashumi Madampe; John Grundy; Nalin Arachchilage
+Kashumi Madampe; John Grundy; Nalin Arachchilage
 
 This repository contains, the survey questionnaire relevant to this study and the quantitative findings.
 
